@@ -1,0 +1,1567 @@
+{
+	"28970830": {
+		"nickname": "Areithul",
+		"id": 59463908
+	},
+	"216991382": {
+		"nickname": "_uMnEPAT0P_",
+		"id": 108334070,
+		"StartedAt": "26.04.2021 22:17",
+		"session": {
+			"1": {
+				"startBattles": 14,
+				"startWins": 8,
+				"startDamage": 13247
+			},
+			"17": {
+				"startBattles": 103,
+				"startWins": 55,
+				"startDamage": 59952
+			},
+			"257": {
+				"startBattles": 16,
+				"startWins": 9,
+				"startDamage": 11998
+			},
+			"289": {
+				"startBattles": 2,
+				"startWins": 2,
+				"startDamage": 1272
+			},
+			"321": {
+				"startBattles": 15,
+				"startWins": 9,
+				"startDamage": 9219
+			},
+			"353": {
+				"startBattles": 2,
+				"startWins": 1,
+				"startDamage": 288
+			},
+			"513": {
+				"startBattles": 199,
+				"startWins": 86,
+				"startDamage": 189099
+			},
+			"529": {
+				"startBattles": 73,
+				"startWins": 37,
+				"startDamage": 81585
+			},
+			"769": {
+				"startBattles": 15,
+				"startWins": 10,
+				"startDamage": 6464
+			},
+			"785": {
+				"startBattles": 1,
+				"startWins": 1,
+				"startDamage": 627
+			},
+			"801": {
+				"startBattles": 25,
+				"startWins": 14,
+				"startDamage": 29967
+			},
+			"849": {
+				"startBattles": 44,
+				"startWins": 27,
+				"startDamage": 18888
+			},
+			"865": {
+				"startBattles": 1,
+				"startWins": 1,
+				"startDamage": 92
+			},
+			"1025": {
+				"startBattles": 11,
+				"startWins": 7,
+				"startDamage": 5644
+			},
+			"1041": {
+				"startBattles": 48,
+				"startWins": 26,
+				"startDamage": 35043
+			},
+			"1057": {
+				"startBattles": 134,
+				"startWins": 69,
+				"startDamage": 83560
+			},
+			"1089": {
+				"startBattles": 57,
+				"startWins": 22,
+				"startDamage": 23649
+			},
+			"1377": {
+				"startBattles": 11,
+				"startWins": 7,
+				"startDamage": 10407
+			},
+			"1537": {
+				"startBattles": 1,
+				"startWins": 1,
+				"startDamage": 415
+			},
+			"1633": {
+				"startBattles": 53,
+				"startWins": 22,
+				"startDamage": 19170
+			},
+			"1649": {
+				"startBattles": 8,
+				"startWins": 4,
+				"startDamage": 14219
+			},
+			"1665": {
+				"startBattles": 24,
+				"startWins": 12,
+				"startDamage": 11964
+			},
+			"1809": {
+				"startBattles": 43,
+				"startWins": 22,
+				"startDamage": 17164
+			},
+			"1825": {
+				"startBattles": 5,
+				"startWins": 2,
+				"startDamage": 2746
+			},
+			"1857": {
+				"startBattles": 179,
+				"startWins": 85,
+				"startDamage": 292403
+			},
+			"1921": {
+				"startBattles": 56,
+				"startWins": 33,
+				"startDamage": 51427
+			},
+			"2049": {
+				"startBattles": 42,
+				"startWins": 21,
+				"startDamage": 19112
+			},
+			"2065": {
+				"startBattles": 6,
+				"startWins": 3,
+				"startDamage": 2890
+			},
+			"2097": {
+				"startBattles": 43,
+				"startWins": 25,
+				"startDamage": 68550
+			},
+			"2129": {
+				"startBattles": 17,
+				"startWins": 8,
+				"startDamage": 11835
+			},
+			"2145": {
+				"startBattles": 10,
+				"startWins": 5,
+				"startDamage": 3224
+			},
+			"2177": {
+				"startBattles": 4,
+				"startWins": 2,
+				"startDamage": 1587
+			},
+			"2321": {
+				"startBattles": 26,
+				"startWins": 16,
+				"startDamage": 44908
+			},
+			"2353": {
+				"startBattles": 11,
+				"startWins": 5,
+				"startDamage": 3614
+			},
+			"2561": {
+				"startBattles": 48,
+				"startWins": 32,
+				"startDamage": 52256
+			},
+			"2609": {
+				"startBattles": 666,
+				"startWins": 414,
+				"startDamage": 725810
+			},
+			"2625": {
+				"startBattles": 37,
+				"startWins": 17,
+				"startDamage": 44273
+			},
+			"2689": {
+				"startBattles": 8,
+				"startWins": 3,
+				"startDamage": 3215
+			},
+			"2817": {
+				"startBattles": 221,
+				"startWins": 104,
+				"startDamage": 172346
+			},
+			"2865": {
+				"startBattles": 42,
+				"startWins": 20,
+				"startDamage": 53075
+			},
+			"2897": {
+				"startBattles": 8,
+				"startWins": 5,
+				"startDamage": 7435
+			},
+			"3121": {
+				"startBattles": 30,
+				"startWins": 14,
+				"startDamage": 7739
+			},
+			"3137": {
+				"startBattles": 52,
+				"startWins": 25,
+				"startDamage": 82789
+			},
+			"3361": {
+				"startBattles": 25,
+				"startWins": 17,
+				"startDamage": 24465
+			},
+			"3633": {
+				"startBattles": 27,
+				"startWins": 15,
+				"startDamage": 28681
+			},
+			"3649": {
+				"startBattles": 273,
+				"startWins": 145,
+				"startDamage": 532504
+			},
+			"3857": {
+				"startBattles": 41,
+				"startWins": 20,
+				"startDamage": 41377
+			},
+			"3873": {
+				"startBattles": 50,
+				"startWins": 31,
+				"startDamage": 65549
+			},
+			"3905": {
+				"startBattles": 24,
+				"startWins": 14,
+				"startDamage": 53474
+			},
+			"4113": {
+				"startBattles": 21,
+				"startWins": 6,
+				"startDamage": 17653
+			},
+			"4353": {
+				"startBattles": 10,
+				"startWins": 6,
+				"startDamage": 11781
+			},
+			"4369": {
+				"startBattles": 26,
+				"startWins": 16,
+				"startDamage": 15570
+			},
+			"4385": {
+				"startBattles": 20,
+				"startWins": 9,
+				"startDamage": 26345
+			},
+			"4401": {
+				"startBattles": 19,
+				"startWins": 8,
+				"startDamage": 6394
+			},
+			"4657": {
+				"startBattles": 112,
+				"startWins": 48,
+				"startDamage": 64975
+			},
+			"4929": {
+				"startBattles": 152,
+				"startWins": 96,
+				"startDamage": 198649
+			},
+			"4993": {
+				"startBattles": 1,
+				"startWins": 1,
+				"startDamage": 1492
+			},
+			"5137": {
+				"startBattles": 126,
+				"startWins": 83,
+				"startDamage": 228221
+			},
+			"5153": {
+				"startBattles": 12,
+				"startWins": 7,
+				"startDamage": 7783
+			},
+			"5169": {
+				"startBattles": 13,
+				"startWins": 9,
+				"startDamage": 15487
+			},
+			"5185": {
+				"startBattles": 156,
+				"startWins": 81,
+				"startDamage": 175744
+			},
+			"5377": {
+				"startBattles": 413,
+				"startWins": 207,
+				"startDamage": 430779
+			},
+			"5393": {
+				"startBattles": 12,
+				"startWins": 8,
+				"startDamage": 5969
+			},
+			"5409": {
+				"startBattles": 63,
+				"startWins": 34,
+				"startDamage": 23921
+			},
+			"5889": {
+				"startBattles": 51,
+				"startWins": 31,
+				"startDamage": 52944
+			},
+			"5953": {
+				"startBattles": 2,
+				"startWins": 2,
+				"startDamage": 1114
+			},
+			"6145": {
+				"startBattles": 79,
+				"startWins": 37,
+				"startDamage": 160644
+			},
+			"6209": {
+				"startBattles": 3,
+				"startWins": 2,
+				"startDamage": 8632
+			},
+			"6465": {
+				"startBattles": 13,
+				"startWins": 7,
+				"startDamage": 8875
+			},
+			"6657": {
+				"startBattles": 17,
+				"startWins": 9,
+				"startDamage": 25828
+			},
+			"6705": {
+				"startBattles": 2,
+				"startWins": 2,
+				"startDamage": 417
+			},
+			"6721": {
+				"startBattles": 11,
+				"startWins": 10,
+				"startDamage": 12489
+			},
+			"6977": {
+				"startBattles": 57,
+				"startWins": 26,
+				"startDamage": 68031
+			},
+			"6993": {
+				"startBattles": 7,
+				"startWins": 4,
+				"startDamage": 2041
+			},
+			"7169": {
+				"startBattles": 346,
+				"startWins": 188,
+				"startDamage": 637970
+			},
+			"7505": {
+				"startBattles": 13,
+				"startWins": 6,
+				"startDamage": 5381
+			},
+			"7729": {
+				"startBattles": 12,
+				"startWins": 6,
+				"startDamage": 12406
+			},
+			"7761": {
+				"startBattles": 3,
+				"startWins": 2,
+				"startDamage": 796
+			},
+			"7937": {
+				"startBattles": 33,
+				"startWins": 16,
+				"startDamage": 60696
+			},
+			"7953": {
+				"startBattles": 113,
+				"startWins": 64,
+				"startDamage": 189351
+			},
+			"8049": {
+				"startBattles": 2,
+				"startWins": 2,
+				"startDamage": 561
+			},
+			"8209": {
+				"startBattles": 3,
+				"startWins": 2,
+				"startDamage": 2626
+			},
+			"8257": {
+				"startBattles": 1,
+				"startWins": 0,
+				"startDamage": 634
+			},
+			"8529": {
+				"startBattles": 1,
+				"startWins": 0,
+				"startDamage": 224
+			},
+			"8785": {
+				"startBattles": 18,
+				"startWins": 10,
+				"startDamage": 12298
+			},
+			"9041": {
+				"startBattles": 14,
+				"startWins": 6,
+				"startDamage": 6831
+			},
+			"9297": {
+				"startBattles": 3,
+				"startWins": 1,
+				"startDamage": 4347
+			},
+			"9489": {
+				"startBattles": 17,
+				"startWins": 10,
+				"startDamage": 40815
+			},
+			"9505": {
+				"startBattles": 117,
+				"startWins": 73,
+				"startDamage": 173638
+			},
+			"9553": {
+				"startBattles": 46,
+				"startWins": 22,
+				"startDamage": 38864
+			},
+			"9745": {
+				"startBattles": 62,
+				"startWins": 35,
+				"startDamage": 109877
+			},
+			"9761": {
+				"startBattles": 3,
+				"startWins": 1,
+				"startDamage": 1503
+			},
+			"9793": {
+				"startBattles": 9,
+				"startWins": 4,
+				"startDamage": 4975
+			},
+			"10049": {
+				"startBattles": 6,
+				"startWins": 2,
+				"startDamage": 4354
+			},
+			"10065": {
+				"startBattles": 50,
+				"startWins": 22,
+				"startDamage": 57272
+			},
+			"10273": {
+				"startBattles": 4,
+				"startWins": 3,
+				"startDamage": 5140
+			},
+			"10753": {
+				"startBattles": 246,
+				"startWins": 108,
+				"startDamage": 342537
+			},
+			"11009": {
+				"startBattles": 148,
+				"startWins": 83,
+				"startDamage": 221010
+			},
+			"11025": {
+				"startBattles": 50,
+				"startWins": 28,
+				"startDamage": 41985
+			},
+			"11281": {
+				"startBattles": 27,
+				"startWins": 24,
+				"startDamage": 56119
+			},
+			"11521": {
+				"startBattles": 429,
+				"startWins": 217,
+				"startDamage": 549765
+			},
+			"11537": {
+				"startBattles": 140,
+				"startWins": 62,
+				"startDamage": 186325
+			},
+			"11777": {
+				"startBattles": 79,
+				"startWins": 39,
+				"startDamage": 53023
+			},
+			"11793": {
+				"startBattles": 25,
+				"startWins": 11,
+				"startDamage": 28599
+			},
+			"12049": {
+				"startBattles": 20,
+				"startWins": 11,
+				"startDamage": 45200
+			},
+			"13329": {
+				"startBattles": 2,
+				"startWins": 1,
+				"startDamage": 1183
+			},
+			"13345": {
+				"startBattles": 17,
+				"startWins": 11,
+				"startDamage": 26613
+			},
+			"13841": {
+				"startBattles": 24,
+				"startWins": 15,
+				"startDamage": 30145
+			},
+			"14097": {
+				"startBattles": 40,
+				"startWins": 23,
+				"startDamage": 42685
+			},
+			"14145": {
+				"startBattles": 148,
+				"startWins": 75,
+				"startDamage": 81413
+			},
+			"14881": {
+				"startBattles": 21,
+				"startWins": 12,
+				"startDamage": 46984
+			},
+			"15393": {
+				"startBattles": 39,
+				"startWins": 18,
+				"startDamage": 57433
+			},
+			"15905": {
+				"startBattles": 99,
+				"startWins": 52,
+				"startDamage": 198557
+			},
+			"15937": {
+				"startBattles": 1,
+				"startWins": 1,
+				"startDamage": 312
+			},
+			"16401": {
+				"startBattles": 151,
+				"startWins": 84,
+				"startDamage": 267075
+			},
+			"16657": {
+				"startBattles": 193,
+				"startWins": 113,
+				"startDamage": 285361
+			},
+			"17425": {
+				"startBattles": 66,
+				"startWins": 33,
+				"startDamage": 32906
+			},
+			"17953": {
+				"startBattles": 93,
+				"startWins": 55,
+				"startDamage": 108280
+			},
+			"18209": {
+				"startBattles": 170,
+				"startWins": 64,
+				"startDamage": 168831
+			},
+			"19217": {
+				"startBattles": 6,
+				"startWins": 5,
+				"startDamage": 13657
+			},
+			"19713": {
+				"startBattles": 1,
+				"startWins": 1,
+				"startDamage": 580
+			},
+			"20001": {
+				"startBattles": 106,
+				"startWins": 53,
+				"startDamage": 135645
+			},
+			"20257": {
+				"startBattles": 182,
+				"startWins": 92,
+				"startDamage": 354004
+			},
+			"21025": {
+				"startBattles": 11,
+				"startWins": 7,
+				"startDamage": 15880
+			},
+			"21265": {
+				"startBattles": 3,
+				"startWins": 2,
+				"startDamage": 7263
+			},
+			"21281": {
+				"startBattles": 9,
+				"startWins": 6,
+				"startDamage": 10064
+			},
+			"51473": {
+				"startBattles": 523,
+				"startWins": 303,
+				"startDamage": 378116
+			},
+			"52225": {
+				"startBattles": 12,
+				"startWins": 6,
+				"startDamage": 4087
+			},
+			"52257": {
+				"startBattles": 1,
+				"startWins": 0,
+				"startDamage": 1366
+			},
+			"52561": {
+				"startBattles": 79,
+				"startWins": 40,
+				"startDamage": 117728
+			},
+			"53585": {
+				"startBattles": 15,
+				"startWins": 8,
+				"startDamage": 12721
+			},
+			"54545": {
+				"startBattles": 294,
+				"startWins": 175,
+				"startDamage": 205187
+			},
+			"54785": {
+				"startBattles": 564,
+				"startWins": 344,
+				"startDamage": 674857
+			},
+			"54801": {
+				"startBattles": 1,
+				"startWins": 1,
+				"startDamage": 559
+			},
+			"56097": {
+				"startBattles": 1,
+				"startWins": 1,
+				"startDamage": 1394
+			},
+			"58881": {
+				"startBattles": 282,
+				"startWins": 142,
+				"startDamage": 388571
+			},
+			"64065": {
+				"startBattles": 34,
+				"startWins": 16,
+				"startDamage": 40028
+			}
+		}
+	},
+	"222671290": {
+		"nickname": "Den_1999_1",
+		"id": 8873438,
+		"StartedAt": "26.04.2021 22:18",
+		"session": {
+			"1": {
+				"startBattles": 46,
+				"startWins": 25,
+				"startDamage": 34238
+			},
+			"17": {
+				"startBattles": 5,
+				"startWins": 4,
+				"startDamage": 8001
+			},
+			"49": {
+				"startBattles": 180,
+				"startWins": 117,
+				"startDamage": 314891
+			},
+			"257": {
+				"startBattles": 40,
+				"startWins": 25,
+				"startDamage": 36877
+			},
+			"321": {
+				"startBattles": 4,
+				"startWins": 3,
+				"startDamage": 3446
+			},
+			"385": {
+				"startBattles": 134,
+				"startWins": 96,
+				"startDamage": 354938
+			},
+			"513": {
+				"startBattles": 15,
+				"startWins": 12,
+				"startDamage": 27299
+			},
+			"545": {
+				"startBattles": 3,
+				"startWins": 3,
+				"startDamage": 296
+			},
+			"577": {
+				"startBattles": 2,
+				"startWins": 2,
+				"startDamage": 984
+			},
+			"593": {
+				"startBattles": 69,
+				"startWins": 46,
+				"startDamage": 101554
+			},
+			"625": {
+				"startBattles": 95,
+				"startWins": 65,
+				"startDamage": 124155
+			},
+			"641": {
+				"startBattles": 172,
+				"startWins": 114,
+				"startDamage": 374601
+			},
+			"769": {
+				"startBattles": 3,
+				"startWins": 3,
+				"startDamage": 1892
+			},
+			"801": {
+				"startBattles": 190,
+				"startWins": 86,
+				"startDamage": 143757
+			},
+			"849": {
+				"startBattles": 11,
+				"startWins": 7,
+				"startDamage": 9942
+			},
+			"897": {
+				"startBattles": 78,
+				"startWins": 47,
+				"startDamage": 121441
+			},
+			"1025": {
+				"startBattles": 1,
+				"startWins": 1,
+				"startDamage": 407
+			},
+			"1041": {
+				"startBattles": 4,
+				"startWins": 3,
+				"startDamage": 4485
+			},
+			"1057": {
+				"startBattles": 42,
+				"startWins": 29,
+				"startDamage": 40731
+			},
+			"1089": {
+				"startBattles": 15,
+				"startWins": 9,
+				"startDamage": 13120
+			},
+			"1121": {
+				"startBattles": 26,
+				"startWins": 15,
+				"startDamage": 46445
+			},
+			"1153": {
+				"startBattles": 42,
+				"startWins": 26,
+				"startDamage": 57354
+			},
+			"1297": {
+				"startBattles": 303,
+				"startWins": 190,
+				"startDamage": 470245
+			},
+			"1313": {
+				"startBattles": 118,
+				"startWins": 81,
+				"startDamage": 159033
+			},
+			"1329": {
+				"startBattles": 2,
+				"startWins": 1,
+				"startDamage": 809
+			},
+			"1377": {
+				"startBattles": 11,
+				"startWins": 5,
+				"startDamage": 12300
+			},
+			"1409": {
+				"startBattles": 36,
+				"startWins": 17,
+				"startDamage": 35741
+			},
+			"1569": {
+				"startBattles": 121,
+				"startWins": 88,
+				"startDamage": 181442
+			},
+			"1601": {
+				"startBattles": 1,
+				"startWins": 1,
+				"startDamage": 674
+			},
+			"1633": {
+				"startBattles": 2,
+				"startWins": 2,
+				"startDamage": 2048
+			},
+			"1665": {
+				"startBattles": 11,
+				"startWins": 7,
+				"startDamage": 6839
+			},
+			"1809": {
+				"startBattles": 1,
+				"startWins": 1,
+				"startDamage": 1538
+			},
+			"1857": {
+				"startBattles": 266,
+				"startWins": 154,
+				"startDamage": 466010
+			},
+			"1889": {
+				"startBattles": 10,
+				"startWins": 5,
+				"startDamage": 11303
+			},
+			"1921": {
+				"startBattles": 44,
+				"startWins": 24,
+				"startDamage": 39516
+			},
+			"2049": {
+				"startBattles": 11,
+				"startWins": 9,
+				"startDamage": 6013
+			},
+			"2065": {
+				"startBattles": 6,
+				"startWins": 2,
+				"startDamage": 2688
+			},
+			"2129": {
+				"startBattles": 26,
+				"startWins": 18,
+				"startDamage": 26379
+			},
+			"2145": {
+				"startBattles": 1,
+				"startWins": 1,
+				"startDamage": 869
+			},
+			"2177": {
+				"startBattles": 5,
+				"startWins": 2,
+				"startDamage": 2206
+			},
+			"2305": {
+				"startBattles": 41,
+				"startWins": 22,
+				"startDamage": 57203
+			},
+			"2433": {
+				"startBattles": 2,
+				"startWins": 1,
+				"startDamage": 1175
+			},
+			"2625": {
+				"startBattles": 32,
+				"startWins": 19,
+				"startDamage": 46119
+			},
+			"2657": {
+				"startBattles": 48,
+				"startWins": 31,
+				"startDamage": 80239
+			},
+			"2817": {
+				"startBattles": 34,
+				"startWins": 22,
+				"startDamage": 49646
+			},
+			"2881": {
+				"startBattles": 12,
+				"startWins": 10,
+				"startDamage": 8633
+			},
+			"2897": {
+				"startBattles": 8,
+				"startWins": 7,
+				"startDamage": 7568
+			},
+			"2945": {
+				"startBattles": 1065,
+				"startWins": 755,
+				"startDamage": 2454624
+			},
+			"3089": {
+				"startBattles": 1,
+				"startWins": 1,
+				"startDamage": 576
+			},
+			"3105": {
+				"startBattles": 46,
+				"startWins": 25,
+				"startDamage": 32386
+			},
+			"3137": {
+				"startBattles": 142,
+				"startWins": 78,
+				"startDamage": 279425
+			},
+			"3153": {
+				"startBattles": 6,
+				"startWins": 3,
+				"startDamage": 10417
+			},
+			"3329": {
+				"startBattles": 5,
+				"startWins": 3,
+				"startDamage": 1561
+			},
+			"3361": {
+				"startBattles": 60,
+				"startWins": 35,
+				"startDamage": 39972
+			},
+			"3425": {
+				"startBattles": 55,
+				"startWins": 32,
+				"startDamage": 119242
+			},
+			"3457": {
+				"startBattles": 91,
+				"startWins": 58,
+				"startDamage": 214016
+			},
+			"3585": {
+				"startBattles": 63,
+				"startWins": 35,
+				"startDamage": 73323
+			},
+			"3649": {
+				"startBattles": 646,
+				"startWins": 400,
+				"startDamage": 1444322
+			},
+			"3681": {
+				"startBattles": 167,
+				"startWins": 110,
+				"startDamage": 487099
+			},
+			"3713": {
+				"startBattles": 85,
+				"startWins": 56,
+				"startDamage": 99735
+			},
+			"3873": {
+				"startBattles": 231,
+				"startWins": 131,
+				"startDamage": 296435
+			},
+			"3905": {
+				"startBattles": 142,
+				"startWins": 98,
+				"startDamage": 307797
+			},
+			"3969": {
+				"startBattles": 72,
+				"startWins": 47,
+				"startDamage": 114023
+			},
+			"4113": {
+				"startBattles": 105,
+				"startWins": 63,
+				"startDamage": 153297
+			},
+			"4225": {
+				"startBattles": 101,
+				"startWins": 67,
+				"startDamage": 248961
+			},
+			"4369": {
+				"startBattles": 33,
+				"startWins": 17,
+				"startDamage": 19780
+			},
+			"4385": {
+				"startBattles": 256,
+				"startWins": 149,
+				"startDamage": 381946
+			},
+			"4481": {
+				"startBattles": 101,
+				"startWins": 72,
+				"startDamage": 297350
+			},
+			"4609": {
+				"startBattles": 6,
+				"startWins": 2,
+				"startDamage": 2378
+			},
+			"4689": {
+				"startBattles": 6,
+				"startWins": 2,
+				"startDamage": 6037
+			},
+			"4721": {
+				"startBattles": 17,
+				"startWins": 8,
+				"startDamage": 23445
+			},
+			"4881": {
+				"startBattles": 10,
+				"startWins": 7,
+				"startDamage": 6211
+			},
+			"4897": {
+				"startBattles": 22,
+				"startWins": 9,
+				"startDamage": 5255
+			},
+			"4929": {
+				"startBattles": 449,
+				"startWins": 299,
+				"startDamage": 767907
+			},
+			"5121": {
+				"startBattles": 8,
+				"startWins": 5,
+				"startDamage": 2425
+			},
+			"5137": {
+				"startBattles": 251,
+				"startWins": 145,
+				"startDamage": 425844
+			},
+			"5185": {
+				"startBattles": 179,
+				"startWins": 107,
+				"startDamage": 252461
+			},
+			"5233": {
+				"startBattles": 118,
+				"startWins": 85,
+				"startDamage": 282192
+			},
+			"5377": {
+				"startBattles": 12,
+				"startWins": 7,
+				"startDamage": 22819
+			},
+			"5441": {
+				"startBattles": 110,
+				"startWins": 72,
+				"startDamage": 226983
+			},
+			"5457": {
+				"startBattles": 132,
+				"startWins": 79,
+				"startDamage": 210250
+			},
+			"5489": {
+				"startBattles": 2,
+				"startWins": 2,
+				"startDamage": 2515
+			},
+			"5505": {
+				"startBattles": 83,
+				"startWins": 55,
+				"startDamage": 260283
+			},
+			"5665": {
+				"startBattles": 11,
+				"startWins": 3,
+				"startDamage": 1954
+			},
+			"5761": {
+				"startBattles": 175,
+				"startWins": 131,
+				"startDamage": 457668
+			},
+			"5889": {
+				"startBattles": 37,
+				"startWins": 23,
+				"startDamage": 57118
+			},
+			"5921": {
+				"startBattles": 103,
+				"startWins": 59,
+				"startDamage": 155255
+			},
+			"5953": {
+				"startBattles": 7,
+				"startWins": 5,
+				"startDamage": 3183
+			},
+			"5969": {
+				"startBattles": 49,
+				"startWins": 30,
+				"startDamage": 87958
+			},
+			"6017": {
+				"startBattles": 30,
+				"startWins": 20,
+				"startDamage": 46145
+			},
+			"6145": {
+				"startBattles": 61,
+				"startWins": 38,
+				"startDamage": 189362
+			},
+			"6209": {
+				"startBattles": 165,
+				"startWins": 98,
+				"startDamage": 475088
+			},
+			"6273": {
+				"startBattles": 22,
+				"startWins": 14,
+				"startDamage": 40064
+			},
+			"6417": {
+				"startBattles": 47,
+				"startWins": 27,
+				"startDamage": 34948
+			},
+			"6465": {
+				"startBattles": 121,
+				"startWins": 81,
+				"startDamage": 135050
+			},
+			"6529": {
+				"startBattles": 26,
+				"startWins": 19,
+				"startDamage": 30630
+			},
+			"6721": {
+				"startBattles": 48,
+				"startWins": 33,
+				"startDamage": 50827
+			},
+			"6929": {
+				"startBattles": 24,
+				"startWins": 14,
+				"startDamage": 59737
+			},
+			"6977": {
+				"startBattles": 27,
+				"startWins": 15,
+				"startDamage": 37263
+			},
+			"6993": {
+				"startBattles": 1,
+				"startWins": 0,
+				"startDamage": 659
+			},
+			"7185": {
+				"startBattles": 18,
+				"startWins": 14,
+				"startDamage": 22176
+			},
+			"7201": {
+				"startBattles": 57,
+				"startWins": 30,
+				"startDamage": 67782
+			},
+			"7425": {
+				"startBattles": 125,
+				"startWins": 74,
+				"startDamage": 290764
+			},
+			"7505": {
+				"startBattles": 5,
+				"startWins": 3,
+				"startDamage": 3769
+			},
+			"7697": {
+				"startBattles": 35,
+				"startWins": 22,
+				"startDamage": 59094
+			},
+			"7761": {
+				"startBattles": 1,
+				"startWins": 1,
+				"startDamage": 581
+			},
+			"7937": {
+				"startBattles": 220,
+				"startWins": 141,
+				"startDamage": 501142
+			},
+			"7953": {
+				"startBattles": 49,
+				"startWins": 34,
+				"startDamage": 120509
+			},
+			"8193": {
+				"startBattles": 128,
+				"startWins": 80,
+				"startDamage": 331759
+			},
+			"8465": {
+				"startBattles": 258,
+				"startWins": 150,
+				"startDamage": 394314
+			},
+			"8513": {
+				"startBattles": 44,
+				"startWins": 27,
+				"startDamage": 113311
+			},
+			"8529": {
+				"startBattles": 13,
+				"startWins": 10,
+				"startDamage": 18154
+			},
+			"8785": {
+				"startBattles": 14,
+				"startWins": 4,
+				"startDamage": 8677
+			},
+			"8993": {
+				"startBattles": 16,
+				"startWins": 8,
+				"startDamage": 18420
+			},
+			"9041": {
+				"startBattles": 12,
+				"startWins": 8,
+				"startDamage": 6790
+			},
+			"9297": {
+				"startBattles": 215,
+				"startWins": 118,
+				"startDamage": 551544
+			},
+			"9489": {
+				"startBattles": 216,
+				"startWins": 129,
+				"startDamage": 533660
+			},
+			"9505": {
+				"startBattles": 404,
+				"startWins": 222,
+				"startDamage": 712612
+			},
+			"9553": {
+				"startBattles": 1,
+				"startWins": 1,
+				"startDamage": 1598
+			},
+			"9745": {
+				"startBattles": 237,
+				"startWins": 122,
+				"startDamage": 424905
+			},
+			"9761": {
+				"startBattles": 61,
+				"startWins": 50,
+				"startDamage": 86775
+			},
+			"10065": {
+				"startBattles": 2,
+				"startWins": 2,
+				"startDamage": 3568
+			},
+			"10257": {
+				"startBattles": 407,
+				"startWins": 222,
+				"startDamage": 638897
+			},
+			"10497": {
+				"startBattles": 75,
+				"startWins": 46,
+				"startDamage": 99578
+			},
+			"10769": {
+				"startBattles": 88,
+				"startWins": 58,
+				"startDamage": 164023
+			},
+			"10785": {
+				"startBattles": 112,
+				"startWins": 63,
+				"startDamage": 255311
+			},
+			"11777": {
+				"startBattles": 32,
+				"startWins": 20,
+				"startDamage": 25456
+			},
+			"12305": {
+				"startBattles": 247,
+				"startWins": 156,
+				"startDamage": 588723
+			},
+			"13569": {
+				"startBattles": 81,
+				"startWins": 51,
+				"startDamage": 243963
+			},
+			"13841": {
+				"startBattles": 193,
+				"startWins": 123,
+				"startDamage": 325061
+			},
+			"14097": {
+				"startBattles": 190,
+				"startWins": 110,
+				"startDamage": 224885
+			},
+			"14145": {
+				"startBattles": 132,
+				"startWins": 83,
+				"startDamage": 111874
+			},
+			"14609": {
+				"startBattles": 71,
+				"startWins": 45,
+				"startDamage": 177570
+			},
+			"14865": {
+				"startBattles": 126,
+				"startWins": 80,
+				"startDamage": 245091
+			},
+			"15393": {
+				"startBattles": 118,
+				"startWins": 63,
+				"startDamage": 261148
+			},
+			"15697": {
+				"startBattles": 399,
+				"startWins": 265,
+				"startDamage": 1237847
+			},
+			"15937": {
+				"startBattles": 2,
+				"startWins": 1,
+				"startDamage": 1168
+			},
+			"16401": {
+				"startBattles": 72,
+				"startWins": 44,
+				"startDamage": 188791
+			},
+			"16641": {
+				"startBattles": 52,
+				"startWins": 34,
+				"startDamage": 56809
+			},
+			"16657": {
+				"startBattles": 26,
+				"startWins": 19,
+				"startDamage": 53771
+			},
+			"16897": {
+				"startBattles": 68,
+				"startWins": 45,
+				"startDamage": 174064
+			},
+			"17425": {
+				"startBattles": 1,
+				"startWins": 1,
+				"startDamage": 1122
+			},
+			"17953": {
+				"startBattles": 162,
+				"startWins": 95,
+				"startDamage": 199960
+			},
+			"18177": {
+				"startBattles": 83,
+				"startWins": 49,
+				"startDamage": 118127
+			},
+			"18209": {
+				"startBattles": 206,
+				"startWins": 131,
+				"startDamage": 423367
+			},
+			"18257": {
+				"startBattles": 64,
+				"startWins": 43,
+				"startDamage": 100241
+			},
+			"18433": {
+				"startBattles": 48,
+				"startWins": 27,
+				"startDamage": 75587
+			},
+			"18769": {
+				"startBattles": 109,
+				"startWins": 82,
+				"startDamage": 269814
+			},
+			"19537": {
+				"startBattles": 203,
+				"startWins": 120,
+				"startDamage": 545312
+			},
+			"19793": {
+				"startBattles": 171,
+				"startWins": 110,
+				"startDamage": 451863
+			},
+			"20001": {
+				"startBattles": 72,
+				"startWins": 55,
+				"startDamage": 197337
+			},
+			"20049": {
+				"startBattles": 110,
+				"startWins": 76,
+				"startDamage": 216402
+			},
+			"20257": {
+				"startBattles": 59,
+				"startWins": 35,
+				"startDamage": 152044
+			},
+			"20497": {
+				"startBattles": 46,
+				"startWins": 25,
+				"startDamage": 72328
+			},
+			"20753": {
+				"startBattles": 126,
+				"startWins": 84,
+				"startDamage": 302935
+			},
+			"21025": {
+				"startBattles": 5,
+				"startWins": 4,
+				"startDamage": 9110
+			},
+			"51473": {
+				"startBattles": 3,
+				"startWins": 2,
+				"startDamage": 2160
+			},
+			"52481": {
+				"startBattles": 65,
+				"startWins": 34,
+				"startDamage": 39394
+			},
+			"52561": {
+				"startBattles": 4,
+				"startWins": 3,
+				"startDamage": 7148
+			},
+			"54289": {
+				"startBattles": 76,
+				"startWins": 51,
+				"startDamage": 152201
+			},
+			"54785": {
+				"startBattles": 30,
+				"startWins": 16,
+				"startDamage": 34761
+			},
+			"55297": {
+				"startBattles": 12,
+				"startWins": 9,
+				"startDamage": 16402
+			},
+			"56577": {
+				"startBattles": 25,
+				"startWins": 11,
+				"startDamage": 9942
+			},
+			"58881": {
+				"startBattles": 70,
+				"startWins": 47,
+				"startDamage": 128008
+			},
+			"59137": {
+				"startBattles": 91,
+				"startWins": 61,
+				"startDamage": 150312
+			},
+			"59905": {
+				"startBattles": 809,
+				"startWins": 535,
+				"startDamage": 1507023
+			},
+			"60929": {
+				"startBattles": 26,
+				"startWins": 13,
+				"startDamage": 10936
+			},
+			"63585": {
+				"startBattles": 158,
+				"startWins": 106,
+				"startDamage": 206428
+			},
+			"63601": {
+				"startBattles": 841,
+				"startWins": 583,
+				"startDamage": 1445660
+			},
+			"64337": {
+				"startBattles": 3,
+				"startWins": 2,
+				"startDamage": 3977
+			}
+		}
+	},
+	"303398078": {
+		"nickname": "ZareganV2017",
+		"id": 87491824
+	},
+	"460427373": {
+		"nickname": "MrReDDasteR",
+		"id": 113833641
+	},
+	"570932139": {
+		"nickname": "Yanfi",
+		"id": 104533831
+	}
+}
